@@ -66,4 +66,4 @@ Welcome to the Python Programming Course! This repository contains all the mater
 ## How to Use This Repository
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/<username>/python-programming-course.git
+   git clone https://github.com/PagidipalaVenkatSaiHarshith/Python-programming-course.git
